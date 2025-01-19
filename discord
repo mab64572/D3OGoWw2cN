@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	    <title>Ventex™ Support</title>
+	    <meta http-equiv="refresh" content="1; URL=https://discord.gg/RakePQ559v" />
+			<link rel="icon" href="../images/logo.png">
+	    <meta property="og:type" content="website">
+	    <meta property="og:title" content="Ventex™ Support">
+	    <meta property="og:description" content="Make Your Discord Server Amazing!">
+	    <meta property="og:image" >
+	    <meta name="theme-color" content="#6DAADD">
+   </head>
+   <body>
+      	<h1>Redirecting You To The Discord Server Page...</h1>
+      	<img src="https://cdn.discordapp.com/attachments/1324997366268428310/1330258857532063804/discord-discord-logo.gif?ex=678d539a&is=678c021a&hm=3b5f5608029da58b8142185dd15b1f683833ec3fd3c676cb931827529a1babe9&" alt="Loading...">
+   </body>
+   <style>
+      @import url('//fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+   		body {
+   			background: #24252A;
+   			text-align: center;
+        justify-content: center;
+        padding: 10% 0;
+   		}
+   		h1 {
+   			color: #fff;
+   			font-size: 75px;
+   			font-family: 'Ubuntu', sans-serif;
+   		}
+   		p {
+   			color: #fff;
+   			font-size: 50px;
+   			font-family: sans-serif;
+   		}
+   </style>
+</html>
