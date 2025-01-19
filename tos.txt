@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bot Terms of Service</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+        body {
+            background: #24252A;
+            color: #fff;
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            text-align: center;
+            padding: 5%;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+        ul {
+            text-align: left;
+            display: inline-block;
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        ul li {
+            margin: 0.5rem 0;
+        }
+        a {
+            color: #6DAADD;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            width: 150px;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bot Terms of Service</h1>
+    <p>
+        By using the bot, you agree to the latest terms of service. These terms may change at any time without prior notice, so please review them regularly.
+    </p>
+    <p>
+        You are not allowed to copy, modify, reverse-engineer, or create derivative versions of the bot. All intellectual property related to the bot belongs to its owner.
+    </p>
+
+    <h1>Prohibited Actions</h1>
+    <ul>
+        <li>Misleading or defrauding other users to obtain sensitive information.</li>
+        <li>Abusing support services or submitting false reports.</li>
+        <li>Engaging in unauthorized linking or automation within Discord.</li>
+        <li>Attempting to bypass security measures or restrictions.</li>
+    </ul>
+
+    <h1>Note</h1>
+    <p>
+        Breaking these terms will result in blacklisting and banning from our services.
+    </p>
+
+    <h1>References</h1>
+    <ul>
+        <li><a href="https://discord.com/terms">Discord Terms of Service</a></li>
+        <li><a href="https://discord.com/guidelines">Discord Guidelines</a></li>
+        <li><a href="https://github.com/DakshKain/Bot-Privacy-Policy">Bot Privacy Policy</a></li>
+    </ul>
+
+    <h1>Contact</h1>
+    <ul>
+        <li><a href="https://discord.gg/RakePQ559v">Join Our Discord Server</a></li>
+    </ul>
+
+    <p>Thank you for using our service!</p>
+</body>
+</html>

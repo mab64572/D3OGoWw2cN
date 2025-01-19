@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ventex™ Privacy Policy</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+        body {
+            background: #24252A;
+            color: #fff;
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            text-align: center;
+            padding: 5%;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+        ul {
+            text-align: left;
+            display: inline-block;
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        ul li {
+            margin: 0.5rem 0;
+        }
+        a {
+            color: #6DAADD;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            width: 150px;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bot Privacy Policy</h1>
+    <p>
+        This service is provided for free and designed to enhance your experience. By using the bot, you agree to its privacy policy and terms of service.
+    </p>
+    <p>
+        We collect limited data to improve the service, which is securely stored using AES encryption. Your data will never be shared or sold.
+    </p>
+    
+    <h1>What Data Do We Store?</h1>
+    <ul>
+        <li>Server IDs for configurations (e.g., welcome messages, auto roles, vanity settings).</li>
+        <li>Blacklisted user IDs for security purposes.</li>
+    </ul>
+    
+    <h1>Does the Bot Access Your Messages?</h1>
+    <ul>
+        <li>Scans messages for blacklisted words or links (for automod).</li>
+        <li>Logs flagged messages to the server's logging channel if enabled.</li>
+    </ul>
+    
+    <h1>Who Can Access the Data?</h1>
+    <ul>
+        <li>Server Owners and Administrators (server-specific data).</li>
+        <li>Bot Developers (all data for maintenance).</li>
+    </ul>
+    
+    <h1>Data Retention and Removal</h1>
+    <p>
+        Data is retained for <strong>30 days</strong> after the bot is removed from your server. If you re-add the bot within this period, your configurations will be restored.  
+        To delete your data permanently, contact the developer. Once deleted, data cannot be recovered.
+    </p>
+    
+    <h1>Contact</h1>
+    <ul>
+        <li><a href="https://discord.gg/RakePQ559v">Join Our Discord Server</a></li>
+    </ul>
+    
+    <p>Thank you for using our service!</p>
+</body>
+</html>
